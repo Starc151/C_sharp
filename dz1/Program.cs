@@ -76,4 +76,4 @@ void zadacha8(){
 // zadacha2();
 // zadacha4();
 // zadacha6();
-zadacha8();
+//zadacha8();
